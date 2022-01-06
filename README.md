@@ -9,4 +9,4 @@ You can use the different sliders and parameters to make it as you wish.
 
 Make sure to use the different views for a better experince.
 
-![Demo](https://gifs.com/gif/3dmodelingwebgl-99GrGD)
+![Demo](https://j.gifs.com/99GrGD.gif)
