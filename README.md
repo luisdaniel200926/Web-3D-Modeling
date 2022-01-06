@@ -9,4 +9,4 @@ You can use the different sliders and parameters to make it as you wish.
 
 Make sure to use the different views for a better experince.
 
-<video src='https://github.com/luisdaniel200926/Web-3D-Modeling/blob/main/LuisDanielCastillo_Video.mp4' width=180/>
+![Demo](3DModelingWebGL.gif)
